@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Mister-Zeng
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Email: #Officialjasonzeng@gmail.com
-
-<!---
-Mister-Zeng/Mister-Zeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Jason!
+- 🌱 I’m currently learning to become a full stack developer
+- 📫 [Email] - Officialjasonzeng@gmail.com
+- [Website] - [Jason Zeng](https://mister-zeng.github.io/Portfolio-Website/)
+- [Twitter] - [@misterzeng](https://www.twitter.com/misterzeng)
