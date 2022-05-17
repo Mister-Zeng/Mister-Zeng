@@ -1,6 +1,6 @@
 ### About Me
-- 👋 Hi, I’m Jason!
-- 🌱 I’m currently learning to become a full stack developer
+- 👋 Hi, I’m Jason. Nice to meet you!
+- 🌱 I’m currently developing my skill to become a full stack developer
 
 ### Current Skills
 HTML, CSS, JavaScript, Git, RESTful API, React.js, Node.js, Bootstrap, Semantic UI
