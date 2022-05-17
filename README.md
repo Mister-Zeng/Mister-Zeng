@@ -11,6 +11,7 @@
 - 👋 Hi, I’m Jason. Nice to meet you!
 - 🧑🏻‍💻 I am a <b>Front End Developer</b> developing my skill to become a Full Stack Developer. 
 
+### Here are some of my skills
 <img src="https://img.icons8.com/color/30/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/30/000000/css3.png"/><img src="https://img.icons8.com/color/30/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/30/000000/react-native.png"/><img src="https://img.icons8.com/fluency/30/000000/node-js.png"/><img src="https://img.icons8.com/color/30/000000/git.png"/><img src="https://img.icons8.com/nolan/30/api-settings.png"/><img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>
 
 ## Github Stats
