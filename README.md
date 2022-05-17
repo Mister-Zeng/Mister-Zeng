@@ -5,7 +5,7 @@
 ### Current Skills
 HTML, CSS, JavaScript, Git, RESTful API, React.js, Node.js, Bootstrap, Semantic UI
 ### Skills Working Towards
-Express, Java, Spring, MongoDB, SQL
+Express, Java, Spring, MongoDB/Mongoose, SQL
 
 ### Contact Me
 - 📫 [Email] - [Email](Officialjasonzeng@gmail.com)
