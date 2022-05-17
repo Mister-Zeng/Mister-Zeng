@@ -10,7 +10,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/misterzeng)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/misterzeng/)
 
-### About Me
+## About Me
  👋 Hi, I’m Jason. Nice to meet you!
  <br />
  🧑🏻‍💻 I am a <b>Front End Developer</b> developing my skill to become a Full Stack Developer. 
