@@ -18,7 +18,7 @@
 <img src="https://img.icons8.com/color/30/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/30/000000/css3.png"/><img src="https://img.icons8.com/color/30/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/30/000000/react-native.png"/><img src="https://img.icons8.com/fluency/30/000000/node-js.png"/><img src="https://img.icons8.com/color/30/000000/git.png"/><img src="https://img.icons8.com/nolan/30/api-settings.png"/><img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>
 
 ## Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-zeng&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-zeng&layout=compact" />
 </div>
