@@ -21,6 +21,15 @@ Express, Java, Spring, MongoDB/Mongoose, SQL]
 ## Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emister-zeng&layout=compact" />
+
+![Metrics](https://github.com/mister-zeng/mister-zeng/blob/main/github-metrics.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
+
+
 ### Contact Me
 - 📫 [Email] - [Email](Officialjasonzeng@gmail.com)
 - 📋 [Resume] - [Download Resume](https://github.com/Mister-Zeng/Mister-Zeng/raw/main/Jason%20Zeng_Resume.pdf)
