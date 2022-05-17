@@ -17,12 +17,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-zeng&layout=compact" />
-
-name: Detailed display
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.achievements.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_achievements: yes
-  plugin_achievements_only: sponsor, maintainer, octonaut
