@@ -11,7 +11,7 @@
 - 👋 Hi, I’m Jason. Nice to meet you!
 - 🌱 I’m currently developing my skill to become a full stack developer
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+**<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>**
 
 ## Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
