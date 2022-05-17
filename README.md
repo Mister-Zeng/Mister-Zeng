@@ -1,3 +1,4 @@
+<div align="center">
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=georgia&size=25&height=40&lines=Hello!+My+name+is+Jason+Zeng;I+am+a+Software+Engineer;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=mister-zeng)
@@ -18,3 +19,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-zeng&layout=compact" />
+</div>
