@@ -11,13 +11,6 @@
 - 👋 Hi, I’m Jason. Nice to meet you!
 - 🌱 I’m currently developing my skill to become a full stack developer
 
-### Current Skills
-- HTML -Git - Node.js
-- CSS -RESTful API - Bootstrap
-- JavaScript -React.js - Semantic UI
-### Skills Working Towards
-Express, Java, Spring, MongoDB/Mongoose, SQL]
-
 ## Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
 
@@ -26,8 +19,3 @@ Express, Java, Spring, MongoDB/Mongoose, SQL]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
-
-
-### Contact Me
-- 📫 [Email] - [Email](Officialjasonzeng@gmail.com)
-- 📋 [Resume] - [Download Resume](https://github.com/Mister-Zeng/Mister-Zeng/raw/main/Jason%20Zeng_Resume.pdf)
