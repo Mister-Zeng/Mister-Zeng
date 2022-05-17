@@ -11,6 +11,7 @@
 
 ### About Me
  👋 Hi, I’m Jason. Nice to meet you!
+ <br />
  🧑🏻‍💻 I am a <b>Front End Developer</b> developing my skill to become a Full Stack Developer. 
 
 ### Here are some of my skills
