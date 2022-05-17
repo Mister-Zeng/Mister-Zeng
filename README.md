@@ -3,8 +3,10 @@
 - 🌱 I’m currently developing my skill to become a full stack developer
 
 ### Current Skills
-HTML, CSS, JavaScript, Git, RESTful API, React.js, Node.js, Bootstrap, Semantic UI
-### Skills Working Towards
+- HTML -Git - Node.js
+- CSS -RESTful API - Bootstrap
+- JavaScript -React.js - Semantic UI
+- ### Skills Working Towards
 Express, Java, Spring, MongoDB/Mongoose, SQL
 
 ### Contact Me
