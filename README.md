@@ -10,6 +10,6 @@ Express, Java, Spring, MongoDB/Mongoose, SQL
 ### Contact Me
 - 📫 [Email] - [Email](Officialjasonzeng@gmail.com)
 - 🌐 [Website] - [Jason Zeng](https://mister-zeng.github.io/Portfolio-Website/)
-- 📘 [LinkedIn](https://www.linkedin.com/in/misterzeng/)
+- 📘 [LinkedIn] - [LinkedIn](https://www.linkedin.com/in/misterzeng/)
 - 🐦 [Twitter] - [@misterzeng](https://www.twitter.com/misterzeng)
 - 📋 [Resume] - [Download Resume](https://github.com/Mister-Zeng/Mister-Zeng/raw/main/Jason%20Zeng_Resume.pdf)
