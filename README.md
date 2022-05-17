@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://www.twitter.com/misterzeng)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/misterzeng/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=#03c2fc&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%03c2fc&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer)](https://git.io/typing-svg)
 
 ### About Me
 - 👋 Hi, I’m Jason. Nice to meet you!
