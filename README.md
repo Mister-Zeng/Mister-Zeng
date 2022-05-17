@@ -11,11 +11,18 @@
 - 👋 Hi, I’m Jason. Nice to meet you!
 - 🌱 I’m currently developing my skill to become a full stack developer
 
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+
 ## Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-zeng&layout=compact" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
+name: Detailed display
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.achievements.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_achievements: yes
+  plugin_achievements_only: sponsor, maintainer, octonaut
