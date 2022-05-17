@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason!
 - 🌱 I’m currently learning to become a full stack developer
-- 📫 [Email] - Officialjasonzeng@gmail.com
+- 📫 [Email] - [Email](Officialjasonzeng@gmail.com)
 - 🌐 [Website] - [Jason Zeng](https://mister-zeng.github.io/Portfolio-Website/)
 - 🐦 [Twitter] - [@misterzeng](https://www.twitter.com/misterzeng)
