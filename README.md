@@ -16,7 +16,10 @@
 - CSS -RESTful API - Bootstrap
 - JavaScript -React.js - Semantic UI
 ### Skills Working Towards
-Express, Java, Spring, MongoDB/Mongoose, SQL
+Express, Java, Spring, MongoDB/Mongoose, SQL]
+
+## Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
 
 ### Contact Me
 - 📫 [Email] - [Email](Officialjasonzeng@gmail.com)
