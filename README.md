@@ -27,7 +27,6 @@
  <img src="https://img.icons8.com/color/30/000000/git.png"/>
  <img src="https://img.icons8.com/nolan/30/api-settings.png"/>
  <img src="https://img.icons8.com/color/30/000000/mongodb.png"/>
- <br>
  <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>
  <img src="https://img.icons8.com/color/30/undefined/material-ui.png"/>
  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/undefined/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
