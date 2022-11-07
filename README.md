@@ -25,7 +25,7 @@
  <img src="https://img.icons8.com/fluency/30/000000/node-js.png"/>
  <img src="https://i.ibb.co/7XyhCt8/icons8-rectangular-30.png"/>
  <img src="https://img.icons8.com/color/30/000000/git.png"/>
- <img src="https://img.icons8.com/nolan/30/api-settings.png"/>
+<img src="https://img.icons8.com/color/30/null/spring-logo.png"/>
  <img src="https://img.icons8.com/color/30/000000/mongodb.png"/>
  <img src="https://img.icons8.com/color/30/000000/bootstrap.png"/>
  <img src="https://img.icons8.com/color/30/undefined/material-ui.png"/>
