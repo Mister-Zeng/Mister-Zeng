@@ -33,7 +33,7 @@
  
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula&langs_count=8" />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-zeng&layout=compact" />
 </div>
