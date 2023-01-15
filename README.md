@@ -33,7 +33,7 @@
  
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mister-zeng&layout=compact&langs_count=8" />
+<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=mister-zeng&layout=compact&langs_count=8" />
 </div>
