@@ -29,8 +29,6 @@
  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/undefined/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
  
 ## Github Stats
-<img src="https://github-readme-stats-ruby-one.vercel.app/api?username=mister-zeng&show_icons=true&theme=dracula" />
-<br />
-<img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=mister-zeng&layout=compact&langs_count=8" />
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=mister-zeng&show_icons=true&theme=transparent)
 </div>
 
