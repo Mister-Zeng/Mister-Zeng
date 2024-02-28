@@ -10,7 +10,7 @@
 ## About Me
  👋 Hi, I’m Jason. Nice to meet you!
  <br />
- 🧑🏻‍💻 I am a <b>Full Stack Developer</b>. 
+ 🧑🏻‍💻 I am a <b>Software Engineer</b>. 
 
 ## Skill Set
 <img src="https://img.icons8.com/color/30/000000/html-5--v1.png"/>
